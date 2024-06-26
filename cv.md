@@ -32,4 +32,9 @@ document.getElementById("main__action__button").onclick = function() {
 ## Certificates & Badges
 
 ## Languages
-
+* Ukrainian (Native)
+* Russian (Native)
+* English (B1-B2)
+* Spanish (A2-B1)
+* Polish (A2-B1)
+* Esperanto (B2)
