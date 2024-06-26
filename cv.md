@@ -19,7 +19,7 @@
   
 ___
 There is a **code example** from the [Burger House project](). _This code enables smooth scrolling to the "products" section when the "main action button" is clicked._
-``` javascript
+```javascript
 document.getElementById("main__action__button").onclick = function() {
   document.getElementById("products").scrollIntoView({behavior: "smooth"});
 }
