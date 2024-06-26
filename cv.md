@@ -16,8 +16,14 @@
 > ![GitHub Icon](./src/img/skills-icons/github.svg) GitHub  
 > ![Git Icon](./src/img/skills-icons/git.svg) Git  
 > ![Figma Icon](./src/img/skills-icons/figma.svg) Figma  
-
-## Code Example
+  
+___
+There is a **code example** from the [Burger House project](). _This code enables smooth scrolling to the "products" section when the "main action button" is clicked._
+``` javascript
+document.getElementById("main__action__button").onclick = function() {
+  document.getElementById("products").scrollIntoView({behavior: "smooth"});
+}
+```
 
 ## Some Projects
 
