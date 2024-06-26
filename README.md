@@ -1,2 +1,3 @@
-# rsschool-cv
-RS School CV task. Stage 0 &amp; Stage 1
+# RS School CV (Stages 0-1)
+
+> [Markdown CV](https://leila-bekirkhan.github.io/rsschool-cv/cv "Open Markdown CV Page")
