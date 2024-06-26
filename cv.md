@@ -18,7 +18,7 @@
 > ![Figma Icon](./src/img/skills-icons/figma.svg) Figma  
   
 ___
-There is a **code example** from the [Burger House project](). _This code enables smooth scrolling to the "products" section when the "main action button" is clicked._
+There is a **code example** from the [Burger House project](https://leila-bekirkhan-burger-house-landing.netlify.app/). _This code enables smooth scrolling to the "products" section when the "main action button" is clicked._
 ```javascript
 document.getElementById("main__action__button").onclick = function() {
   document.getElementById("products").scrollIntoView({behavior: "smooth"});
