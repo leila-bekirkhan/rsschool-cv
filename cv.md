@@ -7,9 +7,7 @@
 ## About Me
 
 ### Skills
-![JavaScript Icon](./src/img/skills-icons/javascript.svg)
-JavaScript (fundamentals)
-> * HTML5 (semantic markup)
+> ![JavaScript Icon](./src/img/skills-icons/javascript.svg)  JavaScript   (fundamentals)  ![HTML Icon](./src/img/skills-icons/html.svg)  HTML5  (semantic markup)
 > * CSS3 (flex; grid; animations)
 > * markdown
 > * vscode (emmet; snippets)
