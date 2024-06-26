@@ -7,14 +7,15 @@
 ## About Me
 
 ### Skills
-> ![JavaScript Icon](./src/img/skills-icons/javascript.svg)  JavaScript   (fundamentals)  ![HTML Icon](./src/img/skills-icons/html.svg)  HTML5  (semantic markup)
-> * CSS3 (flex; grid; animations)
-> * markdown
-> * vscode (emmet; snippets)
-> * devtools
-> * github
-> * git
-> * figma
+> ![JavaScript Icon](./src/img/skills-icons/javascript.svg) JavaScript   (fundamentals)
+> ![HTML Icon](./src/img/skills-icons/html.svg) HTML5 (semantic markup)
+> ![CSS Icon](./src/img/skills-icons/css.svg) CSS3 (flex; grid; animations)
+> ![Markdown Icon](./src/img/skills-icons/markdown.svg) Markdown
+> ![VSCode Icon](./src/img/skills-icons/vscode.svg) VSCode (emmet; snippets)
+> ![Devtools Icon](./src/img/skills-icons/devtools.svg) Devtools
+> ![GitHub Icon](./src/img/skills-icons/github.svg) GitHub
+> ![Git Icon](./src/img/skills-icons/git.svg) Git
+> ![Figma Icon](./src/img/skills-icons/figma.svg) Figma
 
 #### Languages
 
