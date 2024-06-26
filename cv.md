@@ -42,7 +42,19 @@ document.getElementById("main__action__button").onclick = function() {
 > * [**Blog Post Typography**](https://leila-bekirkhan.github.io//HTML-CSS-projects/blog-post-typography/ "Click to open")  
  [![Blog Post Typography](./src/img/project-preview/blog-post-typography.png)](https://leila-bekirkhan.github.io//HTML-CSS-projects/blog-post-typography/ "Click to open")
 
-## Education
+## Work Experience
+
+## Learning Experience
+* **RS School**
+  * JavaScript/Frontend Pre-School _(06.2024 - in progress)_
+* **Colt Stele | Udemy**
+  * The HTML & CSS Bootcamp _(02.2024 - in progress)_
+* **Anthony Alicea | Udemy**
+  * Understanding HTML and CSS _(05.2024 - in progress)_
+* **National Pedagogical Dragomanov University [BACHELOR'S DEGREE]**
+  * English Language and Literature Teacher; Foreign Literature Teacher
+* **Kyiv National Linguistic University**
+  * English Language and Literature Teacher; Foreign Literature Teacher - 
 
 ## Certificates & Badges
 
