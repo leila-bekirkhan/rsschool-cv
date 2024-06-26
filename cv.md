@@ -1,6 +1,6 @@
 # Leila Bekirkhan
 
-**Frontend Developer in Training**
+## Frontend Developer in Training
 > *Cádiz, Spain*
 >
 > [![GitHub account](./src/img/social-icons/github.svg)](https://github.com/leila-bekirkhan/ "Go to GitHub") [![Email address](./src/img/social-icons/gmail.svg)](mailto:bekirkhan@gmail.com "Send an email") [![Linkedin account](./src/img/social-icons/linkedin.svg)](https://www.linkedin.com/in/leila-bekirkhan/ "Go to Linkedin") [![Telegram](./src/img/social-icons/telegram.svg)](https://t.me/l_bekirkhan/ "Send a message on Telegram") [![WhatsApp](./src/img/social-icons/whatsapp.svg)](https://wa.me/1234567890/ "Send a message on WhatsApp")
@@ -8,16 +8,16 @@
 > Some info about me
 
 ## Skills
-
-> ![JavaScript Icon](./src/img/skills-icons/javascript.svg) JavaScript (fundamentals)
-> ![HTML Icon](./src/img/skills-icons/html.svg) HTML5 (semantic markup)
-> ![CSS Icon](./src/img/skills-icons/css.svg) CSS3 (flex; grid; animations)
-> ![Markdown Icon](./src/img/skills-icons/markdown.svg) Markdown
-> ![VSCode Icon](./src/img/skills-icons/vscode.svg) VSCode (emmet; snippets)
-> ![Devtools Icon](./src/img/skills-icons/devtools.svg) Devtools
-> ![GitHub Icon](./src/img/skills-icons/github.svg) GitHub
-> ![Git Icon](./src/img/skills-icons/git.svg) Git
-> ![Figma Icon](./src/img/skills-icons/figma.svg) Figma
+![JavaScript Icon](./src/img/skills-icons/javascript.svg) ![HTML Icon](./src/img/skills-icons/html.svg) ![CSS Icon](./src/img/skills-icons/css.svg) ![Markdown Icon](./src/img/skills-icons/markdown.svg) ![VSCode Icon](./src/img/skills-icons/vscode.svg) ![Devtools Icon](./src/img/skills-icons/devtools.svg) ![GitHub Icon](./src/img/skills-icons/github.svg) ![Git Icon](./src/img/skills-icons/git.svg) ![Figma Icon](./src/img/skills-icons/figma.svg)
+* JavaScript (fundamentals)
+* HTML5 (semantic markup)
+* CSS3 (flex; grid; animations)
+* Markdown
+* VSCode (emmet; snippets)
+* Devtools
+* GitHub
+* Git
+* Figma
 
 ---
 
