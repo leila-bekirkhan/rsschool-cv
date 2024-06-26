@@ -24,8 +24,8 @@ document.getElementById("main__action__button").onclick = function() {
   document.getElementById("products").scrollIntoView({behavior: "smooth"});
 }
 ```
-
 ## Some Projects
+[![Burger House Landing Page](./src/img/project-preview/burger-house.png)](https://leila-bekirkhan-burger-house-landing.netlify.app/ "Click to open") [![Bose Landing Page](./src/img/project-preview/bose.png)](https://leila-bekirkhan-bose-landing.netlify.app// "Click to open") [![Joseph Shmoe Ceramics Portfolio](./src/img/project-preview/joseph-shmoe-ceramics.png)](https://leila-bekirkhan.github.io/HTML-CSS-projects/artist-portfolio-ceramics/ "Click to open") [![Blog Post Typography](./src/img/project-preview/blog-post-typography.png)](https://leila-bekirkhan.github.io//HTML-CSS-projects/blog-post-typography/ "Click to open")
 
 ## Education
 
