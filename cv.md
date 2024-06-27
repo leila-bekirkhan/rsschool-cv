@@ -48,16 +48,16 @@ document.getElementById("main__action__button").onclick = function() {
 * **Kyiv National Linguistic University** _(2005 - 2010)_
   * Research Coordinator in the Department of Science
 
-## Learning Experience | Certificates & Badges
+## Learning Experience \| Certificates & Badges
 * **RS School**
   * JavaScript/Frontend Pre-School _(06.2024 - in progress)_
 * **GeeksForGeeks**
   * Master JavaScript - Complete Beginner to Advanced [<ins>40+ hours</ins>] _(12.2023 - in progress)_
-* **Colt Stele | Udemy**
+* **Colt Stele \| Udemy**
   * The HTML & CSS Bootcamp _(02.2024 - in progress)_
-* **Anthony Alicea | Udemy**
+* **Anthony Alicea \| Udemy**
   * Understanding HTML and CSS _(05.2024 - in progress)_
-* **Scorpius Academy**
+* **Scorpius Academy \| Udemy**
   * [Write Html & Css 5 Times Faster With Vs Code & Emmet 2023](https://www.udemy.com/certificate/UC-4c6c4c56-9b68-4199-bd34-ba06f8799541/ "Open the cerificate") [<ins>4.5 hours</ins>] _(08.2023)_
 * **National Pedagogical Dragomanov University [BACHELOR'S DEGREE]**
   * English Language and Literature Teacher; Foreign Literature Teacher _(2010 - 2011)_
@@ -65,4 +65,4 @@ document.getElementById("main__action__button").onclick = function() {
   * English Language and Literature Teacher; Foreign Literature Teacher _(2006 - 2010)_
 
 ## Languages
-Ukrainian (Native) | Russian (Native) | English (B1-B2) | Spanish (A2-B1) | Polish (A2-B1) | Esperanto (B2)
+Ukrainian (Native) \| Russian (Native) \| English (B1-B2) \| Spanish (A2-B1) \| Polish (A2-B1) \| Esperanto (B2)
