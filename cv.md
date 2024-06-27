@@ -43,6 +43,10 @@ document.getElementById("main__action__button").onclick = function() {
  [![Blog Post Typography](./src/img/project-preview/blog-post-typography.png)](https://leila-bekirkhan.github.io//HTML-CSS-projects/blog-post-typography/ "Click to open")
 
 ## Work Experience
+* **Freelance** _(2011 - 2022)_
+  * Foreign Languages Tutor
+* **Kyiv National Linguistic University** _(2005 - 2010)_
+  * Research Coordinator in the Department of Science
 
 ## Learning Experience | Certificates & Badges
 * **RS School**
