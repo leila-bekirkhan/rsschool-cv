@@ -8,7 +8,7 @@
 > Some info about me
 
 ## Skills
-![JavaScript Icon](./src/img/skills-icons/javascript.svg) ![HTML Icon](./src/img/skills-icons/html.svg) ![CSS Icon](./src/img/skills-icons/css.svg) ![Markdown Icon](./src/img/skills-icons/markdown.svg) ![VSCode Icon](./src/img/skills-icons/vscode.svg) ![Devtools Icon](./src/img/skills-icons/devtools.svg) ![GitHub Icon](./src/img/skills-icons/github.svg) ![Git Icon](./src/img/skills-icons/git.svg) ![Figma Icon](./src/img/skills-icons/figma.svg)
+<!--- ![JavaScript Icon](./src/img/skills-icons/javascript.svg) ![HTML Icon](./src/img/skills-icons/html.svg) ![CSS Icon](./src/img/skills-icons/css.svg) ![Markdown Icon](./src/img/skills-icons/markdown.svg) ![VSCode Icon](./src/img/skills-icons/vscode.svg) ![Devtools Icon](./src/img/skills-icons/devtools.svg) ![GitHub Icon](./src/img/skills-icons/github.svg) ![Git Icon](./src/img/skills-icons/git.svg) ![Figma Icon](./src/img/skills-icons/figma.svg) --->
 * JavaScript (fundamentals)
 * HTML5 (semantic markup)
 * CSS3 (flex; grid; animations)
