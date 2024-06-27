@@ -3,9 +3,9 @@
 ## Frontend Developer in Training
 > *Cádiz, Spain*
 >
-> [![GitHub account](./src/img/social-icons/github.svg)](https://github.com/leila-bekirkhan/ "Go to GitHub") [![Email address](./src/img/social-icons/gmail.svg)](mailto:bekirkhan@gmail.com "Send an email") [![Linkedin account](./src/img/social-icons/linkedin.svg)](https://www.linkedin.com/in/leila-bekirkhan/ "Go to Linkedin") [![Telegram](./src/img/social-icons/telegram.svg)](https://t.me/l_bekirkhan/ "Send a message on Telegram") [![WhatsApp](./src/img/social-icons/whatsapp.svg)](https://wa.me/1234567890/ "Send a message on WhatsApp")
+> [![GitHub account](./src/img/social-icons/github.svg)](https://github.com/leila-bekirkhan/ "Go to GitHub") [![Email address](./src/img/social-icons/gmail.svg)](mailto:bekirkhan@gmail.com "Send an email") [![Linkedin account](./src/img/social-icons/linkedin.svg)](https://www.linkedin.com/in/leila-bekirkhan/ "Go to Linkedin") [![Telegram](./src/img/social-icons/telegram.svg)](https://t.me/l_bekirkhan/ "Send a message on Telegram")
 
-> Some info about me
+Hello there! I am a dedicated and passionate Frontend Developer who thrives on challenges and complex tasks. I enjoy problem-solving, finding solutions, and creating innovative web products. The creative process of web development excites me, and I am always eager to learn and improve. I find great joy in teamwork and take pride in our collective success. I am looking forward to contributing my skills to a dynamic team and delivering exceptional web experiences.
 
 ## Skills
 <!--- ![JavaScript Icon](./src/img/skills-icons/javascript.svg) ![HTML Icon](./src/img/skills-icons/html.svg) ![CSS Icon](./src/img/skills-icons/css.svg) ![Markdown Icon](./src/img/skills-icons/markdown.svg) ![VSCode Icon](./src/img/skills-icons/vscode.svg) ![Devtools Icon](./src/img/skills-icons/devtools.svg) ![GitHub Icon](./src/img/skills-icons/github.svg) ![Git Icon](./src/img/skills-icons/git.svg) ![Figma Icon](./src/img/skills-icons/figma.svg) --->
