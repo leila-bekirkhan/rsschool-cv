@@ -27,32 +27,44 @@ body {
 .header,
 .main-content,
 .footer {
-  padding: 30px;
-  margin-bottom: 60px;
   background-color: #d3c7c7;
   border: 1px solid #cfacac;
   border-radius: 8px;
 }
 
-.main-nav {
-
+.header {
+  padding: 15px 0;
+  margin-bottom: 30px;
 }
 
 .nav-list {
-
+  display: flex;
+  justify-content: center;
+  gap: 45px;
 }
 
 .nav-list-item {
-  font-size: 22px;
+  font-size: 20px;
 }
 
 .nav-list-item a {
   color: #151515;
+  padding: 8px 10px;
+  border: 1px solid transparent;
+  transition: all 0.3s ease;
+  transform: scale(1);
 }
 
 .nav-list-item a:hover {
-  border-bottom: 2px solid #151515;
   cursor: pointer;
+  border: 1px solid #cfacac;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px 25px;
+  transform: scale(1.12);
+}
+
+.main-content {
+  margin-bottom: 30px;
 }
 
 .footer {
