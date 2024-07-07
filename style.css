@@ -139,7 +139,9 @@ h2 {
 }
 
 /* Contacts */
-.contacts {
+.contacts,
+.work,
+.code {
   border-left: 1px solid var(--border-color);;
   border-right: 1px solid var(--border-color);;
   border-radius: 5px;
@@ -151,17 +153,17 @@ h2 {
   align-items: center;
 }
 .contacts__social-icon,
-.skills__icon {
+.skills__icon,
+.work__icon {
   width: 30px;
   margin-right: 10px;
 }
-.contacts__list__item{
+.contacts__list__item {
   margin-bottom: 10px;
 }
 .contacts__text {
   font-size: 22px;
   color: var(--accent-second);
-  /* margin-bottom: 10px; */
 }
 .contacts__list__item a {
   font-size: 22px;
@@ -176,12 +178,27 @@ h2 {
 }
 
 /* Skills */
- .skills {
+ .skills,
+ .projects,
+ .learning {
   border-top: 1px solid var(--border-color);
   border-bottom: 1px solid var(--border-color);
   border-radius: 5px;
 }
 
+/* Work */
+.work__list__item {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+.work__info span {
+  display: block;
+}
+.work__position {
+  font-size: 18px;
+}
 
 /* Footer */
 .footer {
