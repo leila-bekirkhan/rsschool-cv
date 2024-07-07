@@ -49,7 +49,7 @@ h2 {
 }
 .section {
   margin-bottom: 60px;
-  flex-basis: 47%;
+  flex-basis: 48%;
   padding: 20px 20px;
 }
 .section-title {
@@ -144,21 +144,27 @@ h2 {
   border-right: 1px solid var(--border-color);;
   border-radius: 5px;
 }
-.contacts__list__item {
+.contacts__list__item,
+.skills__list__item {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin-bottom: 10px;
 }
-.contacts__social-icon {
+.contacts__social-icon,
+.skills__icon {
   width: 30px;
   margin-right: 10px;
+}
+.contacts__list__item{
+  margin-bottom: 10px;
 }
 .contacts__text {
   font-size: 22px;
   color: var(--accent-second);
+  /* margin-bottom: 10px; */
 }
 .contacts__list__item a {
+  font-size: 22px;
   color: var(--text-color);
 }
 .contacts__list__item a:hover {
@@ -167,6 +173,13 @@ h2 {
 }
 .contacts__text a:visited {
   color: var(--accent-first);
+}
+
+/* Skills */
+ .skills {
+  border-top: 1px solid var(--border-color);
+  border-bottom: 1px solid var(--border-color);
+  border-radius: 5px;
 }
 
 
