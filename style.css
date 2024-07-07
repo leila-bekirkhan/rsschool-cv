@@ -7,12 +7,17 @@
   font-family: "KodeMono-VariableFont_wght";
   src: url(./assets/fonts/KodeMono-VariableFont_wght.ttf);
 }
+@font-face {
+  font-family: "IBMPlexMono-Medium";
+  src: url(./assets/fonts/IBMPlexMono-Medium.ttf);
+}
 :root {
   --text-color: rgb(201, 205, 212);
   --bg-color: linear-gradient(to bottom, rgb(28, 27, 27), rgb(35, 34, 34));
   --border-color: rgb(88, 86, 86);
   --main-font: "SyneMono", sans-serif;
   --title-font: "KodeMono-VariableFont_wght", sans-serif;
+  --code-font: "IBMPlexMono-Medium", monospace;
   --code-color: rgb(35, 34, 34);
   --accent-first: rgba(154, 166, 201, 0.937);
   --accent-second: rgba(201, 181, 154, 0.937);
@@ -67,10 +72,14 @@ h2 {
 
 /* Header */
 .header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
   padding: 15px 0;
   margin-bottom: 60px;
+  background: var(--bg-color);
   border-bottom: 1px solid var(--border-color);
-  border-radius: 15px;
+  border-radius: 0 0 15px 15px;
 }
 .header__nav-list {
   display: flex;
@@ -198,6 +207,9 @@ h2 {
   border-radius: 5px;
   color: var(--code-color);
 }
+.javascript {
+  font-family: var(--code-font);
+}
 
 /* Projects */
 .project-cards {
@@ -216,7 +228,7 @@ h2 {
 }
 .project-card:hover {
   border: 1px solid var(--border-color);
-  box-shadow: 0px 0 0px var(--accent-first);
+  box-shadow: 0 0 7px var(--accent-first);
   transform: scale(1.2);
   cursor: pointer;
   color: var(--accent-second);
