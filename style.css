@@ -154,7 +154,8 @@ h2 {
 }
 .contacts__social-icon,
 .skills__icon,
-.work__icon {
+.work__icon,
+.learning__icon {
   width: 30px;
   margin-right: 10px;
 }
@@ -193,12 +194,22 @@ h2 {
   align-items: flex-start;
   margin-bottom: 15px;
 }
-.work__info span {
+.work__info span,
+.learning__course span {
   display: block;
 }
-.work__position {
+.work__position,
+.learning__course__name {
   font-size: 18px;
 }
+
+/* Learning */
+.learning__list__item {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
 
 /* Footer */
 .footer {
