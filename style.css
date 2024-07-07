@@ -41,7 +41,7 @@ body {
   margin: 0 auto;
   min-width: 32rem;
   min-height: 100vh;
-  padding: 0;
+  padding: 0 6rem;
   background: var(--bg-color);
   font-family: var(--main-font);
   font-size: 2rem;
@@ -90,7 +90,7 @@ h2 {
 }
 .header__nav-list__item {
   font-size: 1.8rem;
-  font-family: "SyneMono", sans-serif;
+  font-family: var(--main-font);
 }
 .header__nav-list__item a {
   color: var(--text-color);
