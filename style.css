@@ -13,6 +13,7 @@
   --border-color: rgb(88, 86, 86);
   --main-font: "SyneMono", sans-serif;
   --title-font: "KodeMono-VariableFont_wght", sans-serif;
+  --code-color: rgb(35, 34, 34);
   --accent-first: rgba(154, 166, 201, 0.937);
   --accent-second: rgba(201, 181, 154, 0.937);
 
@@ -147,7 +148,8 @@ h2 {
   border-radius: 5px;
 }
 .contacts__list__item,
-.skills__list__item {
+.skills__list__item,
+.languages__list__item {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -155,11 +157,13 @@ h2 {
 .contacts__social-icon,
 .skills__icon,
 .work__icon,
-.learning__icon {
-  width: 30px;
+.learning__icon,
+.languages__icon {
+  width: 25px;
   margin-right: 10px;
 }
-.contacts__list__item {
+.contacts__list__item,
+.languages__list__item {
   margin-bottom: 10px;
 }
 .contacts__text {
@@ -187,7 +191,29 @@ h2 {
   border-radius: 5px;
 }
 
+/* Code */
+.code__example {
+  padding: 10px;
+  background-color: var(--accent-second);
+  border-radius: 5px;
+  color: var(--code-color);
+}
+
+/* Projects */
+.project-cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.project-card__preview {
+  width: 90%;
+}
+
+
 /* Work */
+.work-part {
+  margin-bottom: 35px;
+}
 .work__list__item {
   display: flex;
   flex-direction: row;
@@ -210,6 +236,10 @@ h2 {
   align-items: flex-start;
 }
 
+/* Languages */
+.languages__level {
+  margin-left: 10px;
+}
 
 /* Footer */
 .footer {
@@ -224,7 +254,8 @@ h2 {
   width: 37px;
 }
 .footer-year-info {
-  vertical-align: center;
+  display: flex;
+  align-items: center;
   font-size: 18px;
 }
 .rsschool-logo {

@@ -65,4 +65,4 @@ document.getElementById("main__action__button").onclick = function() {
   * English Language and Literature Teacher; Foreign Literature Teacher _(2006 - 2010)_
 
 ## Languages
-Ukrainian (Native) \| Russian (Native) \| English (B1-B2) \| Spanish (A2-B1) \| Polish (A2-B1) \| Esperanto (B2)
+Ukrainian (Native) \| Russian (Native) \| English (B2) \| Spanish (A2-B1) \| Polish (A2-B1) \| Esperanto (B2)
